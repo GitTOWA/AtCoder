@@ -1,1 +1,1 @@
-# AtCoder　& TechFull　answers
+# Answers
